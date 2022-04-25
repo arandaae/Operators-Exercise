@@ -1,0 +1,16 @@
+F:\Repos\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.exe
+F:\Repos\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.deps.json
+F:\Repos\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.runtimeconfig.json
+F:\Repos\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.runtimeconfig.dev.json
+F:\Repos\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.dll
+F:\Repos\OperatorsExercise\bin\Debug\net5.0\OperatorsExercise.pdb
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.csproj.AssemblyReference.cache
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.AssemblyInfoInputs.cache
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.AssemblyInfo.cs
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.csproj.CoreCompileInputs.cache
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.dll
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\refint\OperatorsExercise.dll
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.pdb
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\OperatorsExercise.genruntimeconfig.cache
+F:\Repos\OperatorsExercise\obj\Debug\net5.0\ref\OperatorsExercise.dll
