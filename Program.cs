@@ -2,17 +2,22 @@
 
 namespace OperatorsExercise
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            
             Add();
             Subtract(); 
             Multiply();
             Modulus();
             Division();
-            
 
+            Console.WriteLine("Please enter the radius: ");
+            double radius = double.Parse(Console.ReadLine());
+            double area = AreaOfCircle(radius);
+            Console.WriteLine(area);
+            Console.WriteLine($"The area of a circle with radius of {radius} is {area}");
 
         }
 
@@ -20,6 +25,7 @@ namespace OperatorsExercise
         {
             int x = 5;
             int y = 10;
+            x += y;
             Console.WriteLine(x + y);
         } 
 
@@ -46,7 +52,7 @@ namespace OperatorsExercise
 
             Console.WriteLine(a / b);
             Console.WriteLine(a % b);
-            Console.WriteLine($"{a} / {b} is {quotient} remainder {remainder}");
+            Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
 
         }
 
@@ -56,6 +62,11 @@ namespace OperatorsExercise
             int y = 7;
             Console.WriteLine(x % y);
         }
-
+        
+        static double AreaOfCircle(double r)
+        {
+            return Math.PI * Math.Pow(r, 2);
+        }
+ 
     }
 }
